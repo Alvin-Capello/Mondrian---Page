@@ -1,0 +1,107 @@
+body, html {
+    background: #f6f6f6;
+    }
+
+    #painting {
+    background: #fff4db;
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 10px #8d8d8d;
+    }
+
+    #toprow {
+    height: 290px;
+    }
+
+    #bigbox {
+    width: 290px;
+    height: 290px;
+    }
+
+    #middlerow {
+    height: 10px;
+    width: 400px;
+    }
+
+    #bottomrow {
+        height: 100px;
+        width: 400px;
+    }
+
+    #bottomleftcolumn {
+        height: 100px;
+        width: 100px;
+    }
+
+    #bottomrightcolumn {
+        height: 100px;
+        width:40px;
+    }
+
+    #bottomrighttophalf {
+        height: 40px;
+        width: 40px;
+    }
+
+    #bottomrightbottomhalf {
+        height: 50px;
+        width: 30px;
+    }
+
+    #divider1 {
+        height: 290px;
+        width: 10px;
+    }
+
+    #divider2 {
+        height: 10px;
+        width: 100px;
+    }
+
+    #divider3 {
+        height: 100px;
+        width: 10px;
+    }
+
+    #divider4 {
+        height: 100px;
+        width: 10px;
+    }
+
+    #divider5 {
+        height: 10px;
+        width: 40px;
+    }
+
+    .red {
+    background: #cc3333;
+    }
+
+    .blue {
+    background:blue;
+    }
+
+    .yellow {
+    background: yellow;
+    }
+
+    .black {
+    background: black;
+    }
+
+    .right {
+    float: right;
+    }
+
+    .left {
+        float: left;
+    }
+    
+    .mediumbox {
+    width: 100px;
+    height: 140px;
+    }
+    
